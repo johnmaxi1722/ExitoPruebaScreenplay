@@ -1,0 +1,24 @@
+userinterfaces/HomePage.java
+ userinterfaces.HomePage
+tasks/Loguearse.java
+ tasks.Loguearse
+userinterfaces/LogueoPage.java
+ userinterfaces.LogueoPage
+interactions/WaitElement.java
+ interactions.WaitElement
+userinterfaces/MetodoPagoPage.java
+ userinterfaces.MetodoPagoPage
+userinterfaces/TipoEntregaPage.java
+ userinterfaces.TipoEntregaPage
+userinterfaces/FinalizarCompra.java
+ userinterfaces.FinalizarCompra
+userinterfaces/IrAPagarPage.java
+ userinterfaces.IrAPagarPage
+userinterfaces/CategoriaPage.java
+ userinterfaces.CategoriaPage
+userinterfaces/IngresarEmailPage.java
+ userinterfaces.IngresarEmailPage
+userinterfaces/CompraPage.java
+ userinterfaces.CompraPage
+userinterfaces/FormDatosCompradorPage.java
+ userinterfaces.FormDatosCompradorPage

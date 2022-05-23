@@ -1,0 +1,8 @@
+runners/LoginRunner.java
+ runners.LoginRunner
+stepsdefinitions/CompraStepDefinitions.java
+ stepsdefinitions.CompraStepDefinitions
+stepsdefinitions/LoginStepDefinitions.java
+ stepsdefinitions.LoginStepDefinitions
+runners/CompraRunner.java
+ runners.CompraRunner
